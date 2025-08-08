@@ -1,0 +1,32 @@
+body{
+    background-color: #6699FF;
+    color: #D5E3FF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif Arial, Helvetica, sans-serif;
+}
+#wrapper{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+header{
+    background-color: #6699FF;
+    color: #003366;
+    font-family: serif;
+}
+h1{
+    line-height: 200%;
+}
+nav{
+    font-weight: bold;
+}
+.category{
+    font-weight: bold;
+    color: #003366;
+    background-color: #6699FF;
+    font-size: 1.1em;
+
+}
+footer{
+    font-size: small;
+    font-style: italic;
+}
